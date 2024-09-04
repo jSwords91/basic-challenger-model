@@ -1,0 +1,29 @@
+2024-09-04 16:56:52,020 - main - INFO - Starting up the application
+2024-09-04 16:56:52,020 - main - INFO - load_data took 0.0000 seconds
+2024-09-04 16:56:52,036 - main - INFO - train_model took 0.0158 seconds
+2024-09-04 16:57:24,511 - main - INFO - Received request to train model
+2024-09-04 16:57:24,520 - main - INFO - load_data took 0.0043 seconds
+2024-09-04 16:57:24,563 - main - INFO - train_model took 0.0472 seconds
+2024-09-04 16:57:24,590 - main - INFO - New champion model deployed. Accuracy: 0.9259259259259259, Time taken: 0.0785 seconds
+2024-09-04 16:57:26,830 - main - INFO - Received request to train model
+2024-09-04 16:57:26,830 - main - INFO - load_data took 0.0000 seconds
+2024-09-04 16:57:26,889 - main - INFO - train_model took 0.0593 seconds
+2024-09-04 16:57:26,910 - main - INFO - New champion model deployed. Accuracy: 0.9481481481481482, Time taken: 0.0804 seconds
+2024-09-04 16:57:27,901 - main - INFO - Received request to train model
+2024-09-04 16:57:27,901 - main - INFO - load_data took 0.0000 seconds
+2024-09-04 16:57:27,945 - main - INFO - train_model took 0.0440 seconds
+2024-09-04 16:57:27,971 - main - INFO - New champion model deployed. Accuracy: 0.9703703703703703, Time taken: 0.0700 seconds
+2024-09-04 16:57:28,913 - main - INFO - Received request to train model
+2024-09-04 16:57:28,913 - main - INFO - load_data took 0.0000 seconds
+2024-09-04 16:57:28,935 - main - INFO - train_model took 0.0222 seconds
+2024-09-04 16:57:28,945 - main - INFO - Current model remains champion. Accuracy: 0.9703703703703703, Time taken: 0.0321 seconds
+2024-09-04 16:57:29,974 - main - INFO - Received request to train model
+2024-09-04 16:57:29,980 - main - INFO - load_data took 0.0000 seconds
+2024-09-04 16:57:30,022 - main - INFO - train_model took 0.0420 seconds
+2024-09-04 16:57:30,028 - main - INFO - Current model remains champion. Accuracy: 0.9703703703703703, Time taken: 0.0531 seconds
+2024-09-04 16:57:50,374 - main - INFO - Received prediction request with features: [0.0, 9.0, 9.0, 9.0]
+2024-09-04 16:57:50,374 - main - INFO - predict took 0.0000 seconds
+2024-09-04 16:57:50,374 - main - INFO - Prediction: 2
+2024-09-04 16:58:00,366 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-04 16:58:00,366 - main - INFO - predict took 0.0000 seconds
+2024-09-04 16:58:00,366 - main - INFO - Prediction: 0

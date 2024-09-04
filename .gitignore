@@ -1,6 +1,6 @@
 # Log files
-logs/
-*.log
+#logs/
+#*.log
 
 # pycache
 __pycache__

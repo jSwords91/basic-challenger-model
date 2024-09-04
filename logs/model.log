@@ -1,0 +1,23 @@
+2024-09-04 16:56:52,020 - model - INFO - No existing model found. Training a new model.
+2024-09-04 16:56:52,020 - model - INFO - Loading iris dataset
+2024-09-04 16:56:52,052 - model - INFO - Model (version 1) saved to models\model_v1.joblib
+2024-09-04 16:57:24,514 - model - INFO - Starting challenger process
+2024-09-04 16:57:24,516 - model - INFO - Loading iris dataset
+2024-09-04 16:57:24,563 - model - INFO - New model outperforms current model. New accuracy: 0.9259259259259259, Old accuracy: 0.8888888888888888
+2024-09-04 16:57:24,588 - model - INFO - Model (version 2) saved to models\model_v2.joblib
+2024-09-04 16:57:26,830 - model - INFO - Starting challenger process
+2024-09-04 16:57:26,830 - model - INFO - Loading iris dataset
+2024-09-04 16:57:26,889 - model - INFO - New model outperforms current model. New accuracy: 0.9481481481481482, Old accuracy: 0.9259259259259259
+2024-09-04 16:57:26,910 - model - INFO - Model (version 3) saved to models\model_v3.joblib
+2024-09-04 16:57:27,901 - model - INFO - Starting challenger process
+2024-09-04 16:57:27,901 - model - INFO - Loading iris dataset
+2024-09-04 16:57:27,947 - model - INFO - New model outperforms current model. New accuracy: 0.9703703703703703, Old accuracy: 0.9481481481481482
+2024-09-04 16:57:27,960 - model - INFO - Model (version 4) saved to models\model_v4.joblib
+2024-09-04 16:57:28,913 - model - INFO - Starting challenger process
+2024-09-04 16:57:28,913 - model - INFO - Loading iris dataset
+2024-09-04 16:57:28,935 - model - INFO - Current model remains champion. New accuracy: 0.8222222222222222, Current accuracy: 0.9703703703703703
+2024-09-04 16:57:29,979 - model - INFO - Starting challenger process
+2024-09-04 16:57:29,980 - model - INFO - Loading iris dataset
+2024-09-04 16:57:30,025 - model - INFO - Current model remains champion. New accuracy: 0.8666666666666667, Current accuracy: 0.9703703703703703
+2024-09-04 16:57:50,374 - model - INFO - Prediction made. Input: [0.0, 9.0, 9.0, 9.0], Prediction: 2
+2024-09-04 16:58:00,366 - model - INFO - Prediction made. Input: [0.0, 0.0, 0.0, 0.0], Prediction: 0
