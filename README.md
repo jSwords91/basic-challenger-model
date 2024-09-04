@@ -1,6 +1,6 @@
-# Iris Classifier MLOps Project
+# Iris Classifier MLOps Basic Example
 
-This project demonstrates best practices in ML engineering using scikit-learn, FastAPI, and Docker. It includes an Iris classifier model with API endpoints for prediction and training, as well as a challenger process for model improvement.
+This project demonstrates some ML engineering techniques using scikit-learn, FastAPI, and Docker. It includes an Iris classifier model with API endpoints for prediction and training, as well as a challenger process for model improvement.
 
 This is totally artificial, but conveys some key ideas.
 
