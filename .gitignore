@@ -1,7 +1,11 @@
-# Log files
-#logs/
-#*.log
-
 # pycache
 __pycache__
+
+# Log files
+logs/
+*.log
+
+# models
+models/
+
 
