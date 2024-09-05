@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, development ]
   pull_request:
     branches: [ main ]
 
@@ -21,3 +21,6 @@ jobs:
         pip install -r requirements.txt
     - name: Run tests
       run: pytest tests/
+    - name: Train and evaluate model
+      run: |
+        python -c "from app.model import ModelManager; mm = ModelManager(); mm.challenger_process()"
