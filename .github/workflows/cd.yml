@@ -1,0 +1,32 @@
+name: CD
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [ main ]
+
+jobs:
+  merge-and-deploy:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      run: pytest tests/
+    - name: Train and evaluate model
+      run: |
+        python -c "from app.model import ModelManager; mm = ModelManager(); success, accuracy = mm.challenger_process(); exit(0 if success else 1)"
+    - name: Showcase deployment process
+      run: |
+        echo "Pull request #${{ github.event.pull_request.number }} merged to main branch"
+        echo "All tests have passed"
+        echo "Model training and evaluation successful"
+        echo "Ready for deployment (if this were a real project)"
