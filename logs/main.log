@@ -86,3 +86,10 @@
 2024-09-05 08:02:45,838 - main - INFO - predict took 0.0000 seconds
 2024-09-05 08:02:45,859 - main - INFO - load_data took 0.0037 seconds
 2024-09-05 08:02:45,867 - main - INFO - train_model took 0.0122 seconds
+2024-09-05 08:06:43,794 - main - INFO - load_data took 0.0029 seconds
+2024-09-05 08:06:43,799 - main - INFO - load_data took 0.0022 seconds
+2024-09-05 08:06:43,804 - main - INFO - load_data took 0.0000 seconds
+2024-09-05 08:06:43,817 - main - INFO - train_model took 0.0131 seconds
+2024-09-05 08:06:43,829 - main - INFO - load_data took 0.0000 seconds
+2024-09-05 08:06:43,844 - main - INFO - train_model took 0.0143 seconds
+2024-09-05 08:06:43,848 - main - INFO - predict took 0.0046 seconds

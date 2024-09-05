@@ -94,3 +94,8 @@
 2024-09-05 08:02:45,881 - model - INFO - New model outperforms current model. New accuracy: 0.6, Old accuracy: 0.5
 2024-09-05 08:02:45,881 - model - INFO - Starting challenger process
 2024-09-05 08:02:45,881 - model - INFO - Current model remains champion. New accuracy: 0.4, Current accuracy: 0.5
+2024-09-05 08:06:43,791 - model - INFO - Loading iris dataset
+2024-09-05 08:06:43,797 - model - INFO - Loading iris dataset
+2024-09-05 08:06:43,804 - model - INFO - Loading iris dataset
+2024-09-05 08:06:43,829 - model - INFO - Loading iris dataset
+2024-09-05 08:06:43,844 - model - INFO - Prediction made. Input: [5.1, 3.5, 1.4, 0.2], Prediction: 0
