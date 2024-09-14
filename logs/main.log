@@ -93,3 +93,100 @@
 2024-09-05 08:06:43,829 - main - INFO - load_data took 0.0000 seconds
 2024-09-05 08:06:43,844 - main - INFO - train_model took 0.0143 seconds
 2024-09-05 08:06:43,848 - main - INFO - predict took 0.0046 seconds
+2024-09-14 15:19:24,902 - main - INFO - Starting up the application
+2024-09-14 15:19:24,934 - main - INFO - load_data took 0.0322 seconds
+2024-09-14 15:19:24,974 - main - INFO - train_model took 0.0719 seconds
+2024-09-14 15:20:53,030 - main - INFO - Starting up the application
+2024-09-14 15:21:19,354 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:23:33,496 - main - INFO - Starting up the application
+2024-09-14 15:23:42,441 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:23:42,456 - main - INFO - predict took 0.0157 seconds
+2024-09-14 15:23:46,390 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:23:46,395 - main - INFO - predict took 0.0021 seconds
+2024-09-14 15:23:47,258 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:23:47,266 - main - INFO - predict took 0.0003 seconds
+2024-09-14 15:26:18,704 - main - INFO - Starting up the application
+2024-09-14 15:27:04,517 - main - INFO - Received request to update model
+2024-09-14 15:27:04,528 - main - INFO - load_data took 0.0085 seconds
+2024-09-14 15:27:04,537 - main - INFO - train_model took 0.0175 seconds
+2024-09-14 15:27:15,755 - main - INFO - Received request to update model
+2024-09-14 15:27:15,767 - main - INFO - load_data took 0.0064 seconds
+2024-09-14 15:27:15,786 - main - INFO - train_model took 0.0255 seconds
+2024-09-14 15:31:20,762 - main - INFO - Starting up the application
+2024-09-14 15:31:25,372 - main - INFO - Starting up the application
+2024-09-14 15:31:44,101 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:31:44,105 - main - INFO - predict took 0.0025 seconds
+2024-09-14 15:32:04,455 - main - INFO - Received request to update model
+2024-09-14 15:32:04,469 - main - INFO - load_data took 0.0083 seconds
+2024-09-14 15:32:04,502 - main - INFO - train_model took 0.0405 seconds
+2024-09-14 15:32:08,030 - main - INFO - Received request to update model
+2024-09-14 15:32:08,043 - main - INFO - load_data took 0.0048 seconds
+2024-09-14 15:32:08,063 - main - INFO - train_model took 0.0247 seconds
+2024-09-14 15:32:11,402 - main - INFO - Received request to update model
+2024-09-14 15:32:11,410 - main - INFO - load_data took 0.0082 seconds
+2024-09-14 15:32:11,435 - main - INFO - train_model took 0.0327 seconds
+2024-09-14 15:34:24,734 - main - INFO - Starting up the application
+2024-09-14 15:34:50,954 - main - INFO - Starting up the application
+2024-09-14 15:34:58,572 - main - INFO - Received request to update model
+2024-09-14 15:34:58,588 - main - INFO - load_data took 0.0000 seconds
+2024-09-14 15:34:58,620 - main - INFO - train_model took 0.0328 seconds
+2024-09-14 15:35:33,873 - main - INFO - Starting up the application
+2024-09-14 15:35:48,719 - main - INFO - Starting up the application
+2024-09-14 15:41:19,704 - main - INFO - Starting up the application
+2024-09-14 15:45:29,002 - main - INFO - Starting up the application
+2024-09-14 15:48:39,829 - main - INFO - Starting up the application
+2024-09-14 15:49:06,772 - main - INFO - Starting up the application
+2024-09-14 15:49:15,589 - main - INFO - Starting up the application
+2024-09-14 15:49:43,110 - main - INFO - Starting up the application
+2024-09-14 15:49:54,645 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 15:49:54,651 - main - INFO - predict took 0.0031 seconds
+2024-09-14 15:50:08,169 - main - INFO - Starting up the application
+2024-09-14 15:55:44,792 - main - INFO - Starting up the application
+2024-09-14 15:56:29,133 - main - INFO - Starting up the application
+2024-09-14 15:58:07,436 - main - INFO - Starting up the application
+2024-09-14 15:58:52,931 - main - INFO - Starting up the application
+2024-09-14 16:01:27,505 - main - INFO - Starting up the application
+2024-09-14 16:01:39,938 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 16:01:39,942 - main - INFO - predict took 0.0000 seconds
+2024-09-14 16:01:41,113 - main - INFO - Received prediction request with features: [0.0, 0.0, 0.0, 0.0]
+2024-09-14 16:01:41,122 - main - INFO - predict took 0.0014 seconds
+2024-09-14 16:01:48,369 - main - INFO - Received request to update model
+2024-09-14 16:01:48,385 - main - INFO - load_data took 0.0081 seconds
+2024-09-14 16:01:48,410 - main - INFO - train_model took 0.0335 seconds
+2024-09-14 16:01:49,264 - main - INFO - Received request to update model
+2024-09-14 16:01:49,273 - main - INFO - load_data took 0.0057 seconds
+2024-09-14 16:01:49,298 - main - INFO - train_model took 0.0305 seconds
+2024-09-14 16:01:49,879 - main - INFO - Received request to update model
+2024-09-14 16:01:49,893 - main - INFO - load_data took 0.0000 seconds
+2024-09-14 16:01:49,914 - main - INFO - train_model took 0.0210 seconds
+2024-09-14 16:02:09,414 - main - INFO - Starting up the application
+2024-09-14 16:02:10,810 - main - INFO - Received request to update model
+2024-09-14 16:02:10,834 - main - INFO - load_data took 0.0083 seconds
+2024-09-14 16:02:10,855 - main - INFO - train_model took 0.0288 seconds
+2024-09-14 16:02:30,943 - main - INFO - Starting up the application
+2024-09-14 16:02:32,746 - main - INFO - Received request to update model
+2024-09-14 16:02:32,761 - main - INFO - load_data took 0.0133 seconds
+2024-09-14 16:02:32,831 - main - INFO - train_model took 0.0851 seconds
+2024-09-14 16:06:28,166 - main - INFO - Starting up the application
+2024-09-14 16:06:47,329 - main - INFO - Starting up the application
+2024-09-14 16:07:08,699 - main - INFO - Starting up the application
+2024-09-14 16:10:40,602 - main - INFO - Starting up the application
+2024-09-14 16:10:46,709 - main - INFO - Received request to update model
+2024-09-14 16:10:46,712 - main - INFO - load_data took 0.0000 seconds
+2024-09-14 16:10:46,712 - main - ERROR - Error updating model: name 'self' is not defined
+2024-09-14 16:11:15,899 - main - INFO - Starting up the application
+2024-09-14 16:11:15,909 - main - INFO - Received request to update model
+2024-09-14 16:11:15,918 - main - INFO - load_data took 0.0035 seconds
+2024-09-14 16:11:15,918 - main - ERROR - Error updating model: name 'self' is not defined
+2024-09-14 16:11:26,796 - main - INFO - Starting up the application
+2024-09-14 16:11:29,629 - main - INFO - Received request to update model
+2024-09-14 16:11:29,645 - main - INFO - load_data took 0.0162 seconds
+2024-09-14 16:11:29,656 - main - ERROR - Error updating model: name 'self' is not defined
+2024-09-14 16:12:06,081 - main - INFO - Starting up the application
+2024-09-14 16:12:08,676 - main - INFO - Received request to update model
+2024-09-14 16:12:08,686 - main - INFO - load_data took 0.0065 seconds
+2024-09-14 16:12:08,709 - main - INFO - train_model took 0.0216 seconds
+2024-09-14 16:12:09,854 - main - INFO - Received request to update model
+2024-09-14 16:12:09,863 - main - INFO - load_data took 0.0040 seconds
+2024-09-14 16:12:09,884 - main - INFO - train_model took 0.0249 seconds
+2024-09-14 16:13:31,038 - main - INFO - Starting up the application
