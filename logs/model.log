@@ -99,3 +99,145 @@
 2024-09-05 08:06:43,804 - model - INFO - Loading iris dataset
 2024-09-05 08:06:43,829 - model - INFO - Loading iris dataset
 2024-09-05 08:06:43,844 - model - INFO - Prediction made. Input: [5.1, 3.5, 1.4, 0.2], Prediction: 0
+2024-09-14 15:19:24,902 - model - INFO - No existing model found. Training a new model.
+2024-09-14 15:19:24,902 - model - INFO - Loading iris dataset
+2024-09-14 15:19:24,972 - model - INFO - Model accuracy: 0.7832
+2024-09-14 15:19:24,982 - model - INFO - Model (version 1) saved to models\model_v1.joblib
+2024-09-14 15:20:53,031 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:20:53,031 - model - INFO - Model loaded successfully
+2024-09-14 15:23:33,496 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:23:33,496 - model - INFO - Model loaded successfully
+2024-09-14 15:23:42,456 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9239968776346047
+2024-09-14 15:23:46,395 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9239968776346047
+2024-09-14 15:23:47,266 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9239968776346047
+2024-09-14 15:26:18,704 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:26:18,704 - model - INFO - Model loaded successfully
+2024-09-14 15:27:04,519 - model - INFO - Starting challenger process
+2024-09-14 15:27:04,519 - model - INFO - Loading iris dataset
+2024-09-14 15:27:04,537 - model - INFO - Train acc: 1.0000 || Test acc: 0.7832
+2024-09-14 15:27:04,544 - model - INFO - Current model remains champion. New accuracy: 0.7832, Current accuracy: 0.7832
+2024-09-14 15:27:15,760 - model - INFO - Starting challenger process
+2024-09-14 15:27:15,761 - model - INFO - Loading iris dataset
+2024-09-14 15:27:15,786 - model - INFO - Train acc: 1.0000 || Test acc: 0.7832
+2024-09-14 15:27:15,786 - model - INFO - Current model remains champion. New accuracy: 0.7832, Current accuracy: 0.7832
+2024-09-14 15:31:20,778 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:31:20,778 - model - INFO - Model loaded successfully
+2024-09-14 15:31:25,372 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:31:25,372 - model - INFO - Model loaded successfully
+2024-09-14 15:31:44,103 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9240
+2024-09-14 15:32:04,460 - model - INFO - Starting challenger process
+2024-09-14 15:32:04,461 - model - INFO - Loading iris dataset
+2024-09-14 15:32:04,500 - model - INFO - Train acc: 1.0000 || Test acc: 0.7832
+2024-09-14 15:32:04,502 - model - INFO - Current model remains champion. New accuracy: 0.7832, Current accuracy: 0.7832
+2024-09-14 15:32:08,030 - model - INFO - Starting challenger process
+2024-09-14 15:32:08,038 - model - INFO - Loading iris dataset
+2024-09-14 15:32:08,055 - model - INFO - Train acc: 1.0000 || Test acc: 0.7832
+2024-09-14 15:32:08,063 - model - INFO - Current model remains champion. New accuracy: 0.7832, Current accuracy: 0.7832
+2024-09-14 15:32:11,402 - model - INFO - Starting challenger process
+2024-09-14 15:32:11,402 - model - INFO - Loading iris dataset
+2024-09-14 15:32:11,435 - model - INFO - Train acc: 1.0000 || Test acc: 0.7832
+2024-09-14 15:32:11,438 - model - INFO - Current model remains champion. New accuracy: 0.7832, Current accuracy: 0.7832
+2024-09-14 15:34:24,743 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:34:24,744 - model - INFO - Model loaded successfully
+2024-09-14 15:34:50,954 - model - INFO - Loading existing model (version 1) from models\model_v1.joblib
+2024-09-14 15:34:50,954 - model - INFO - Model loaded successfully
+2024-09-14 15:34:58,572 - model - INFO - Starting challenger process
+2024-09-14 15:34:58,588 - model - INFO - Loading iris dataset
+2024-09-14 15:34:58,609 - model - INFO - Train acc: 1.0000 || Test acc: 0.9481
+2024-09-14 15:34:58,623 - model - INFO - New model outperforms current model || New acc: 0.9481 || Current acc: 1.0000
+2024-09-14 15:34:58,629 - model - INFO - Model (version 2) saved to models\model_v2.joblib
+2024-09-14 15:34:58,638 - model - INFO - Model metadata (version 2) saved to models\model_metadata_v2.json
+2024-09-14 15:35:33,873 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:35:33,873 - model - INFO - Model loaded successfully
+2024-09-14 15:35:48,733 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:35:48,733 - model - INFO - Model loaded successfully
+2024-09-14 15:41:19,721 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:41:19,723 - model - INFO - Model loaded successfully
+2024-09-14 15:45:29,010 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:45:29,010 - model - INFO - Model loaded successfully
+2024-09-14 15:48:39,829 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:48:39,844 - model - INFO - Model loaded successfully
+2024-09-14 15:49:06,773 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:49:06,773 - model - INFO - Model loaded successfully
+2024-09-14 15:49:15,589 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:49:15,589 - model - INFO - Model loaded successfully
+2024-09-14 15:49:43,120 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:49:43,121 - model - INFO - Model loaded successfully
+2024-09-14 15:49:54,648 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9742
+2024-09-14 15:50:08,170 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:50:08,170 - model - INFO - Model loaded successfully
+2024-09-14 15:55:44,800 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:55:44,800 - model - INFO - Model loaded successfully
+2024-09-14 15:56:29,134 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:56:29,139 - model - INFO - Model loaded successfully
+2024-09-14 15:58:07,436 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:58:07,436 - model - INFO - Model loaded successfully
+2024-09-14 15:58:52,931 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 15:58:52,943 - model - INFO - Model loaded successfully
+2024-09-14 16:01:27,507 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 16:01:27,509 - model - INFO - Model loaded successfully
+2024-09-14 16:01:39,942 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9742
+2024-09-14 16:01:41,122 - model - INFO - Prediction made || Input: [0.0, 0.0, 0.0, 0.0] || Prediction: 0 || Probability: 0.9742
+2024-09-14 16:01:48,375 - model - INFO - Starting challenger process
+2024-09-14 16:01:48,377 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:01:48,410 - model - INFO - Train acc: 1.0000 || Test acc: 0.9481
+2024-09-14 16:01:48,410 - model - INFO - Current model remains champion || New acc: 0.9481 || Current acc: 0.9481
+2024-09-14 16:01:49,264 - model - INFO - Starting challenger process
+2024-09-14 16:01:49,267 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:01:49,289 - model - INFO - Train acc: 1.0000 || Test acc: 0.9481
+2024-09-14 16:01:49,298 - model - INFO - Current model remains champion || New acc: 0.9481 || Current acc: 0.9481
+2024-09-14 16:01:49,889 - model - INFO - Starting challenger process
+2024-09-14 16:01:49,893 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:01:49,914 - model - INFO - Train acc: 1.0000 || Test acc: 0.9481
+2024-09-14 16:01:49,922 - model - INFO - Current model remains champion || New acc: 0.9481 || Current acc: 0.9481
+2024-09-14 16:02:09,414 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 16:02:09,414 - model - INFO - Model loaded successfully
+2024-09-14 16:02:10,823 - model - INFO - Starting challenger process
+2024-09-14 16:02:10,826 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:02:10,855 - model - INFO - Train acc: 1.0000 || Test acc: 0.9481
+2024-09-14 16:02:10,855 - model - INFO - Current model remains champion || New acc: 0.9481 || Current acc: 0.9481
+2024-09-14 16:02:30,943 - model - INFO - Loading existing model (version 2) from models\model_v2.joblib
+2024-09-14 16:02:30,943 - model - INFO - Model loaded successfully
+2024-09-14 16:02:32,746 - model - INFO - Starting challenger process
+2024-09-14 16:02:32,746 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:02:32,831 - model - INFO - Train acc: 0.9778 || Test acc: 1.0000
+2024-09-14 16:02:32,834 - model - INFO - New model outperforms current model || New acc: 1.0000 || Current acc: 2.0000
+2024-09-14 16:02:32,835 - model - INFO - Model (version 3) saved to models\model_v3.joblib
+2024-09-14 16:02:32,865 - model - INFO - Model metadata (version 3) saved to models\model_metadata_v3.json
+2024-09-14 16:06:28,166 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:06:28,166 - model - INFO - Model loaded successfully
+2024-09-14 16:06:47,329 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:06:47,329 - model - INFO - Model loaded successfully
+2024-09-14 16:07:08,704 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:07:08,704 - model - INFO - Model loaded successfully
+2024-09-14 16:10:40,602 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:10:46,711 - model - INFO - Starting challenger process
+2024-09-14 16:10:46,712 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:11:15,899 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:11:15,911 - model - INFO - Starting challenger process
+2024-09-14 16:11:15,915 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:11:26,796 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:11:29,629 - model - INFO - Starting challenger process
+2024-09-14 16:11:29,629 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:12:06,083 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:12:06,085 - model - INFO - Model loaded successfully
+2024-09-14 16:12:08,679 - model - INFO - Starting challenger process
+2024-09-14 16:12:08,679 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:12:08,701 - model - INFO - Train acc: 0.9778 || Test acc: 1.0000
+2024-09-14 16:12:08,711 - model - INFO - Current model remains champion || New acc: 1.0000 || Current acc: 1.0000
+2024-09-14 16:12:09,856 - model - INFO - Starting challenger process
+2024-09-14 16:12:09,859 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:12:09,884 - model - INFO - Train acc: 0.9778 || Test acc: 1.0000
+2024-09-14 16:12:09,884 - model - INFO - Current model remains champion || New acc: 1.0000 || Current acc: 1.0000
+2024-09-14 16:13:31,053 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:13:31,053 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,862 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:18:18,886 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:18:18,886 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,896 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:18:18,896 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,904 - model - INFO - Prediction made || Input: [5.1, 3.5, 1.4, 0.2] || Prediction: 0 || Probability: 0.9786
+2024-09-14 16:18:18,906 - model - INFO - Starting challenger process
+2024-09-14 16:18:18,911 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:18:18,928 - model - INFO - Train acc: 0.9778 || Test acc: 1.0000
+2024-09-14 16:18:18,928 - model - INFO - Current model remains champion || New acc: 1.0000 || Current acc: 1.0000
