@@ -190,3 +190,7 @@
 2024-09-14 16:12:09,863 - main - INFO - load_data took 0.0040 seconds
 2024-09-14 16:12:09,884 - main - INFO - train_model took 0.0249 seconds
 2024-09-14 16:13:31,038 - main - INFO - Starting up the application
+2024-09-14 16:18:18,862 - main - INFO - load_data took 0.0000 seconds
+2024-09-14 16:18:18,906 - main - INFO - predict took 0.0033 seconds
+2024-09-14 16:18:18,911 - main - INFO - load_data took 0.0000 seconds
+2024-09-14 16:18:18,928 - main - INFO - train_model took 0.0170 seconds

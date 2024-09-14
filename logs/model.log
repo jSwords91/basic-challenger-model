@@ -231,3 +231,13 @@
 2024-09-14 16:12:09,884 - model - INFO - Current model remains champion || New acc: 1.0000 || Current acc: 1.0000
 2024-09-14 16:13:31,053 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
 2024-09-14 16:13:31,053 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,862 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:18:18,886 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:18:18,886 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,896 - model - INFO - Loading existing model (version 3) from models\model_v3.joblib
+2024-09-14 16:18:18,896 - model - INFO - Model loaded successfully
+2024-09-14 16:18:18,904 - model - INFO - Prediction made || Input: [5.1, 3.5, 1.4, 0.2] || Prediction: 0 || Probability: 0.9786
+2024-09-14 16:18:18,906 - model - INFO - Starting challenger process
+2024-09-14 16:18:18,911 - model - INFO - Loading iris dataset for the demo...
+2024-09-14 16:18:18,928 - model - INFO - Train acc: 0.9778 || Test acc: 1.0000
+2024-09-14 16:18:18,928 - model - INFO - Current model remains champion || New acc: 1.0000 || Current acc: 1.0000
