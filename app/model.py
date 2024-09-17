@@ -10,7 +10,7 @@ import os
 import json
 import numpy as np
 
-IMPROVEMENT_THRESHOLD = 0.02 # 2% improvement required to update model
+IMPROVEMENT_THRESHOLD = 0.02 # 2% improvement required to update model -- add as arrg later...
 
 class DataHandler:
     @staticmethod
