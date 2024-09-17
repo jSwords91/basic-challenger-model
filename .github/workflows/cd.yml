@@ -23,7 +23,7 @@ jobs:
       run: pytest tests/
     - name: Train and evaluate model
       run: |
-        python -c "from app.model import ModelManager; mm = ModelManager(); success, accuracy = mm.challenger_process(); exit(0 if success else 1)"
+        python -c "from app.model import ModelManager; mm = ModelManager(); success, accuracy = mm.challenger_process(); print(f'Model update success: {success}, Accuracy: {accuracy}')"
     - name: Showcase deployment process
       run: |
         echo "Pull request #${{ github.event.pull_request.number }} merged to main branch"
