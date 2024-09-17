@@ -2,6 +2,8 @@
 
 This project demonstrates some ML engineering techniques using scikit-learn, FastAPI, and Docker. It includes an Iris classifier model with API endpoints for prediction and training, as well as a challenger process for model improvement.
 
+The model itself is almost an afterthought -- here we're thinking about the system. Insert whichever model you like.
+
 I also set up Github Actions for CI/CD, where I run some basic tests upon push or pull request. This helps ensure that the code continues to work as expected.
 
 This is totally artificial, but conveys some key ideas.
